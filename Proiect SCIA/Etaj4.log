@@ -1,0 +1,40 @@
+Circuit: * D:\Facultate\An III\Sem1\Proiect SCIA\Etaj4.asc
+
+Direct Newton iteration for .op point succeeded.
+N-Period=1
+Fourier components of V(out4)
+DC component:0.124041
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.730e+03	6.496e-02	1.000e+00	  179.82°	    0.00°
+    2   	3.460e+03	8.286e-02	1.276e+00	  -90.04°	 -269.86°
+    3   	5.190e+03	2.001e-04	3.081e-03	  105.55°	  -74.26°
+    4   	6.920e+03	1.679e-02	2.585e-01	  -90.15°	 -269.96°
+    5   	8.650e+03	1.832e-04	2.820e-03	   65.18°	 -114.64°
+    6   	1.038e+04	7.262e-03	1.118e-01	  -89.92°	 -269.74°
+    7   	1.211e+04	2.488e-04	3.831e-03	   88.10°	  -91.72°
+    8   	1.384e+04	4.147e-03	6.383e-02	  -90.93°	 -270.75°
+    9   	1.557e+04	2.379e-04	3.662e-03	   99.83°	  -79.99°
+   10   	1.730e+04	2.724e-03	4.193e-02	  -92.51°	 -272.33°
+Total Harmonic Distortion: 130.854552%(131.058112%)
+
+
+
+Date: Wed Jan 17 22:09:06 2024
+Total elapsed time: 0.102 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3551
+traniter = 3514
+tranpoints = 1625
+accept = 1424
+rejected = 201
+matrix size = 19
+fillins = 5
+solver = Normal
+Matrix Compiler1: 1.46 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: 2.02 KB object code size  0.2/0.3/[0.2]
+

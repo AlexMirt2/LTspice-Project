@@ -1,0 +1,4 @@
+Circuit: * D:\Facultate\An III\Sem1\Proiect SCIA\circuit_complet.asc
+
+Fatal Error: Voltage source V1 and voltage source V:X1:3 are paralleled making an over-defined circuit matrix.
+You will need to correct the circuit or add some series resistance.

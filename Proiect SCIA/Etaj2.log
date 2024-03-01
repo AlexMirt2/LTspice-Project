@@ -1,0 +1,87 @@
+Circuit: * D:\Facultate\An III\Sem1\Proiect SCIA\Etaj2.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 1.13078e-007
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.00260417
+Gmin = 1.12583e-007
+vernier = 0.00347222
+vernier = 0.00462963
+Gmin = 1.1165e-007
+vernier = 0.00617283
+Gmin = 1.10154e-007
+vernier = 0.00823044
+vernier = 0.0109739
+Gmin = 1.07747e-007
+vernier = 0.0146319
+vernier = 0.0195092
+Gmin = 1.04042e-007
+vernier = 0.0260122
+Gmin = 9.83029e-008
+vernier = 0.034683
+vernier = 0.046244
+Gmin = 8.95939e-008
+vernier = 0.0616586
+vernier = 0.0822114
+Gmin = 7.7376e-008
+vernier = 0.109615
+Gmin = 6.10552e-008
+vernier = 0.146154
+vernier = 0.194871
+Gmin = 4.15426e-008
+vernier = 0.259828
+vernier = 0.346438
+Gmin = 2.27222e-008
+vernier = 0.461917
+Gmin = 8.68513e-009
+vernier = 0.615889
+vernier = 0.821185
+Gmin = 1.88305e-009
+vernier = 1
+Gmin = 2.25533e-010
+Gmin = 2.42164e-011
+Gmin = 2.60021e-012
+Gmin = 2.79196e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Note: .fourier statements are only valid with a .tran command.
+      No Fourier analysis performed.
+
+
+Date: Wed Jan 17 21:55:06 2024
+Total elapsed time: 0.224 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1584
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 42
+fillins = 93
+solver = Normal
+Matrix Compiler1:     501 opcodes
+Matrix Compiler2: 6.54 KB object code size  0.8/1.1/[0.5]
+
